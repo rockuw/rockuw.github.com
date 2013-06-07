@@ -210,7 +210,7 @@ NAT等无法使用，如果要将cubieboard作为网关来使用，就需要将i
 PT，所以等过段时间再试试把内核换掉，看有没有效果。
 
 [archlinux-bug]: http://archlinuxarm.org/platforms/armv7/cubieboard
-[messy-desktop]: http://rockuw.com/images/messy-desktop.jpg
+[messy-desktop]: /assets/images/my-desktop.jpg
 [sina-cubieboard-create-ubuntu-image]: http://blog.sina.com.cn/s/blog_5459f60d0101h0j3.html
 [linaro-tar-link]:http://releases.linaro.org/12.11/ubuntu/precise-images/alip
 [kbuild-intro]: http://www.linuxjournal.com/content/kbuild-linux-kernel-build-system

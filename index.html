@@ -14,7 +14,10 @@ title:
   </div>
   
   {{ post.excerpt }}
-  ... <button class="btn btn-info">Read More</button>
+  ...
+  <a href="{{ post.url }}">
+    <button class="btn btn-info">Read More</button>
+  </a>
   
   {% unless post.tags == empty %}
     <ul class="tag_box inline">
