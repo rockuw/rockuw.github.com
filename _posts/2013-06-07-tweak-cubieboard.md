@@ -236,6 +236,9 @@ built-in的。具体的操作如下：
    [kbuild: the Linux Kernel Build System][kbuild-intro]之后，我已经深
    谙此道了：）
 
+最后上一张整齐的图：
+![整齐的图][my-cubieboard]
+
 [archlinux-bug]: http://archlinuxarm.org/platforms/armv7/cubieboard
 [messy-desktop]: /assets/images/my-desktop.jpg
 [sina-cubieboard-create-ubuntu-image]: http://blog.sina.com.cn/s/blog_5459f60d0101h0j3.html
@@ -247,3 +250,4 @@ built-in的。具体的操作如下：
 [cubieboard-wifi-setup]: http://cubieboard.info/thread-3-1-1.html
 [ssk-usb-hub]: http://www.amazon.cn/gp/product/B0030XLWDS/ref=oh_details_o00_s00_i00?ie=UTF8&psc=1
 [deluge-install]: http://dev.deluge-torrent.org/wiki/Installing/Source
+[my-cubieboard]: /assets/images/my-cubieboard.jpg
