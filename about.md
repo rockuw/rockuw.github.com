@@ -16,7 +16,7 @@ group: navigation
 
 ----
 
-<div style="width: 400px">
+<div class="span7">
 <span class="badge badge-info">MacBook Air</span>
 <span class="badge badge-info">iPhone 5</span>
 <span class="badge badge-info">the new iPad</span>
